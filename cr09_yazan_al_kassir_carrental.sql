@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 03, 2018 at 03:13 PM
+-- Generation Time: Feb 03, 2018 at 03:25 PM
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.1
 
@@ -180,7 +180,7 @@ INSERT INTO `reservation` (`reservation_id`, `country`, `city`, `pickup_date`, `
 (9, 'Germany', 'Munich', '2011-03-23', '2011-04-20', 9, 9),
 (10, 'France', 'Bordeaux', '2015-08-23', '2015-09-23', 10, 10),
 (11, 'Austria', 'Graz', '2016-07-24', '2016-02-22', 11, 11),
-(12, 'Irekand', 'Galway', '2016-09-27', '2016-10-25', 12, 12),
+(12, 'Ireland', 'Galway', '2016-09-27', '2016-10-25', 12, 12),
 (13, 'France', 'Nice', '2011-08-28', '2011-09-26', 13, 13),
 (14, 'Austria', 'Linz', '2012-06-29', '2012-07-25', 14, 14),
 (15, 'Ireland', 'Waterford', '2014-05-22', '2014-06-15', 15, 15),
